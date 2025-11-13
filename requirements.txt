@@ -1,0 +1,13 @@
+# Core dependencies for Spark Metadata Conversational Bot
+pyspark>=3.3.0
+pandas>=1.5.0
+openpyxl>=3.0.0
+
+# Optional: For enhanced NLP capabilities
+# transformers>=4.20.0
+# torch>=1.12.0
+
+# Development dependencies
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0
