@@ -1,0 +1,23 @@
+# Requirements for Agentic AI and MCP Learning
+
+# Core dependencies
+mcp>=1.0.0  # Model Context Protocol SDK
+
+# Async support
+aiohttp>=3.9.0  # Async HTTP client
+httpx>=0.25.0   # Modern HTTP client with async support
+
+# Optional: For using AI APIs in examples
+anthropic>=0.7.0  # Claude API (optional)
+openai>=1.0.0     # OpenAI API (optional)
+
+# Development tools
+pytest>=7.4.0           # Testing framework
+pytest-asyncio>=0.21.0  # Async testing support
+black>=23.0.0           # Code formatting
+mypy>=1.7.0             # Type checking
+pylint>=3.0.0           # Linting
+
+# Utilities
+python-dotenv>=1.0.0    # Environment variable management
+pydantic>=2.0.0         # Data validation

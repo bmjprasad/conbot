@@ -1,0 +1,36 @@
+{
+  "name": "agentic-ai-mcp-learning",
+  "version": "1.0.0",
+  "description": "Comprehensive learning resource for Agentic AI and Model Context Protocol (MCP)",
+  "keywords": [
+    "agentic-ai",
+    "mcp",
+    "model-context-protocol",
+    "ai-agents",
+    "autonomous-agents",
+    "langchain",
+    "llm",
+    "anthropic",
+    "claude"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "your-repo-url"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "structure": {
+    "guides": [
+      "01-agentic-ai-guide.md",
+      "02-mcp-guide.md"
+    ],
+    "examples": [
+      "03-agentic-ai-examples.py",
+      "04-mcp-server-example.py",
+      "05-mcp-client-example.py"
+    ],
+    "exercises": [
+      "06-exercises-and-projects.md"
+    ]
+  }
+}
